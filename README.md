@@ -176,27 +176,27 @@
 ## 🧠 LeetCode Stats & Heatmap
  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/impradip1234?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20&cache=0" alt="LeetCode Stats & Heatmap"/>
+  <img src="https://leetcard.jacoblin.cool/impradipyadav1234?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20&cache=0" alt="LeetCode Stats & Heatmap"/>
 </p>
 ---
  
 ## 📊 LeetCode Problem Count
  
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.totalSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00b8a3&label=Easy&query=$.easySolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=00b8a3" alt="LeetCode Easy"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Medium&query=$.mediumSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=ffa116" alt="LeetCode Medium"/>
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ef4743&label=Hard&query=$.hardSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=ef4743" alt="LeetCode Hard"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.totalSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00b8a3&label=Easy&query=$.easySolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=00b8a3" alt="LeetCode Easy"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Medium&query=$.mediumSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=ffa116" alt="LeetCode Medium"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ef4743&label=Hard&query=$.hardSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=ef4743" alt="LeetCode Hard"/>
 </p>
 ---
  
 ## 🎯 LeetCode Ranking
  
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9c55f5&label=Ranking&query=$.ranking&url=https://alfa-leetcode-api.onrender.com/impradip1234&logo=leetcode&logoColor=9c55f5" alt="LeetCode Ranking"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9c55f5&label=Ranking&query=$.ranking&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234&logo=leetcode&logoColor=9c55f5" alt="LeetCode Ranking"/>
 </p>
 <!-- Keeps alfa-leetcode-api warm on every profile visit (invisible) -->
-<img src="https://alfa-leetcode-api.onrender.com/impradip1234" width="0" height="0" alt=""/>
+<img src="https://alfa-leetcode-api.onrender.com/impradipyadav1234" width="0" height="0" alt=""/>
 ---
 
 - ### 📚 Learning Resources
@@ -214,7 +214,7 @@ I'm always happy to connect with fellow beginners and learners. Let's grow toget
 
 <p align="center">
 <a href="https://linkedin.com/in/pradipyadav1234"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
-<a href="mailto:pradipyadav2438317@example.com"> <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="mailto:pradipyadav2438317@gmail.com"> <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 </p>
 
 ---
