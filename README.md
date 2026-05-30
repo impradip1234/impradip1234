@@ -1,4 +1,6 @@
 <img width="400" height="125" alt="github-banner" src="https://github.com/user-attachments/assets/a11fd9f9-2633-4e87-ae6e-0dd074425142" />
+<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" />
+
 ## Hi there 👋
 <!--
 **impradip1234/impradip1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
