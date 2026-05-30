@@ -1,5 +1,4 @@
-<!-- <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" /> -->
-![Banner](github-banner.svg)
+<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" />
 
 <h1 align="center">Hi, I'm Pradip Yadav 👋</h1>
 
@@ -10,8 +9,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/pradipyadav1234"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/impradip1234">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:pradipyadav2438317@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
@@ -138,10 +135,11 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true)
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7ee787&text_color=c9d1d9" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impradip1234&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impradip1234&layout=compact&theme=github_dark&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -170,8 +168,7 @@
 I'm always happy to connect with fellow beginners and learners. Let's grow together!
 
 <p align="center">
-<a href="https://linkedin.com/in/pradipyadav1234"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-</a> <a href="https://github.com/impradip1234"> <img src="https://img.shields.io/badge/Visit%20my%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> 
+<a href="https://linkedin.com/in/pradipyadav1234"> <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> 
 <a href="mailto:pradipyadav2438317@example.com"> <img src="https://img.shields.io/badge/Send%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
 </p>
 
