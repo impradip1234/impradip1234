@@ -1,5 +1,5 @@
 <p align="center">
-<img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" />
+<img width="100%" height="350" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" />
 </p>
   
 <h1 align="center">Hi, I'm Pradip Yadav 👋</h1>
@@ -62,12 +62,10 @@
 
 | Project | What I Learned | Stack |
 |---|---|---|
-
-..........
-<!-- | 🏠 [**House Price Prediction**](#) | Linear regression, data cleaning | Pandas · Scikit-Learn |
+| 🏠 [**House Price Prediction**](#) | Linear regression, data cleaning | Pandas · Scikit-Learn |
 | 🌸 [**Iris Flower Classifier**](#) | Classification, train/test split | Scikit-Learn · Matplotlib |
-| 📊 [**EDA on Titanic Dataset**](#) | Data exploration, visualisation | Pandas · Seaborn | -->
-..........
+| 📊 [**EDA on Titanic Dataset**](#) | Data exploration, visualisation | Pandas · Seaborn |
+
 > 🔧 More coming soon as I keep learning!
 
 ---
@@ -134,18 +132,9 @@
 - [ ] Model Deployment
 
 ---
-
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════ -->
  
 ## 📊 GitHub Stats
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impradip1234&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
-</p>
+
 ---
  
 ## 🔥 GitHub Streak
@@ -153,6 +142,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=impradip1234&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak"/>
 </p>
+
 ---
  
 ## 🏆 GitHub Trophies
@@ -160,6 +150,7 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=impradip1234&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </p>
+
 ---
  
 ## 📈 GitHub Activity Graph
@@ -167,27 +158,26 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=impradip1234&theme=github-compact&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
+
 ---
- 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   LEETCODE STATS SECTION                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
  
 ## 🧠 LeetCode Stats & Heatmap
  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/impradipyadav1234?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20&cache=0" alt="LeetCode Stats & Heatmap"/>
 </p>
+
 ---
  
 ## 📊 LeetCode Problem Count
  
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.totalSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.solvedProblem&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00b8a3&label=Easy&query=$.easySolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=00b8a3" alt="LeetCode Easy"/>
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Medium&query=$.mediumSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=ffa116" alt="LeetCode Medium"/>
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ef4743&label=Hard&query=$.hardSolved&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234/solved&logo=leetcode&logoColor=ef4743" alt="LeetCode Hard"/>
 </p>
+
 ---
  
 ## 🎯 LeetCode Ranking
@@ -195,8 +185,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9c55f5&label=Ranking&query=$.ranking&url=https://alfa-leetcode-api.onrender.com/impradipyadav1234&logo=leetcode&logoColor=9c55f5" alt="LeetCode Ranking"/>
 </p>
-<!-- Keeps alfa-leetcode-api warm on every profile visit (invisible) -->
-<img src="https://alfa-leetcode-api.onrender.com/impradipyadav1234" width="0" height="0" alt=""/>
+
 ---
 
 - ### 📚 Learning Resources
@@ -222,3 +211,5 @@ I'm always happy to connect with fellow beginners and learners. Let's grow toget
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=impradip1234&color=58a6ff&style=flat-square&label=Profile+Views"/>
 </p>
+
+<img src="https://alfa-leetcode-api.onrender.com/impradipyadav1234" width="0" height="0" alt=""/>
