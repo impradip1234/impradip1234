@@ -133,7 +133,7 @@
 
 ---
  
-## 📊 GitHub Stats
+## 📊 GitHub
 
 ---
  
@@ -160,6 +160,10 @@
 </p>
 
 ---
+
+ ## LeetCode
+
+ ---
  
 ## 🧠 LeetCode Stats & Heatmap
  
