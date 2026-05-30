@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Pradip Yadav Banner" width="100%">
+</p>
 ## Hi there 👋
-
 <!--
 **impradip1234/impradip1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
