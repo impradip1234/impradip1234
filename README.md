@@ -1,6 +1,6 @@
 <p align="center">
 <img width="800" height="250" alt="image" src="https://github.com/user-attachments/assets/804842ed-b37f-46dd-a9db-3b244d7c7da4" />
-,/p>
+</p>
   
 <h1 align="center">Hi, I'm Pradip Yadav 👋</h1>
 
@@ -74,16 +74,16 @@
 
 ## 📚 My Learning Roadmap
 
-- [✅] Python Basics
-- [✅] Object-Oriented Programming (OOP)
-- [✅] NumPy
-- [✅] Pandas
-- [✅] Matplotlib
-- [✅] Data Visualization
-- [✅] Statistics Fundamentals
-- [✅] Probability Fundamentals
-- [✅] SQL Basics
-- [✅] Git & GitHub
+- [ ] Python Basics
+- [ ] Object-Oriented Programming (OOP)
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Matplotlib
+- [ ] Data Visualization
+- [ ] Statistics Fundamentals
+- [ ] Probability Fundamentals
+- [ ] SQL Basics
+- [ ] Git & GitHub
 
 ### Machine Learning
 - [ ] Data Preprocessing
@@ -135,18 +135,23 @@
 
 ---
 
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   GITHUB STATS SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+ 
 ## 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impradip1234&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=impradip1234&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=impradip1234&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="180"/>
 </p>
 ---
  
 ## 🔥 GitHub Streak
  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=impradip1234&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=impradip1234&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=86400" alt="GitHub Streak"/>
 </p>
 ---
  
@@ -165,46 +170,34 @@
 ---
  
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    LEETCODE STATS SECTION                  -->
+<!--                   LEETCODE STATS SECTION                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
  
-## 🧠 LeetCode Stats
+## 🧠 LeetCode Stats & Heatmap
  
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=impradip1234&theme=dark" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/impradip1234?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20&cache=0" alt="LeetCode Stats & Heatmap"/>
 </p>
 ---
  
-## 🔥 LeetCode Streak & Heatmap
+## 📊 LeetCode Problem Count
  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/impradip1234?theme=dark&font=Baloo+2&ext=heatmap&border=0&radius=20" alt="LeetCode Heatmap"/>
-</p>
----
- 
-## 📊 LeetCode Badges & Problem Count
- 
-<p align="center">
-  <!-- Total Problems Solved Badge -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimpradip1234&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
-  <!-- Easy Problems -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00b8a3&label=Easy&query=easySolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimpradip1234&logo=leetcode&logoColor=00b8a3" alt="LeetCode Easy"/>
-  <!-- Medium Problems -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Medium&query=mediumSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimpradip1234&logo=leetcode&logoColor=ffa116" alt="LeetCode Medium"/>
-  <!-- Hard Problems -->
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ef4743&label=Hard&query=hardSolved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimpradip1234&logo=leetcode&logoColor=ef4743" alt="LeetCode Hard"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=$.totalSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=yellow" alt="LeetCode Solved"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=00b8a3&label=Easy&query=$.easySolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=00b8a3" alt="LeetCode Easy"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ffa116&label=Medium&query=$.mediumSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=ffa116" alt="LeetCode Medium"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=ef4743&label=Hard&query=$.hardSolved&url=https://alfa-leetcode-api.onrender.com/impradip1234/solved&logo=leetcode&logoColor=ef4743" alt="LeetCode Hard"/>
 </p>
 ---
  
 ## 🎯 LeetCode Ranking
  
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9c55f5&label=Ranking&query=ranking&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fimpradip1234&logo=leetcode&logoColor=9c55f5" alt="LeetCode Ranking"/>
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=9c55f5&label=Ranking&query=$.ranking&url=https://alfa-leetcode-api.onrender.com/impradip1234&logo=leetcode&logoColor=9c55f5" alt="LeetCode Ranking"/>
 </p>
-
+<!-- Keeps alfa-leetcode-api warm on every profile visit (invisible) -->
+<img src="https://alfa-leetcode-api.onrender.com/impradip1234" width="0" height="0" alt=""/>
 ---
-
-## 📖 Resources I'm Using
 
 - ### 📚 Learning Resources
 
