@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Pradip Yadav Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/impradip1234/impradip1234/main/assets/banner.svg" width="100%">
 </p>
 ## Hi there 👋
 <!--
